@@ -1,0 +1,8 @@
+pandas
+numpy
+scikit-learn
+matplotlib
+seaborn
+streamlit
+joblib
+pyngrok # Though not used in the final app.py, it was part of the initial setup.
